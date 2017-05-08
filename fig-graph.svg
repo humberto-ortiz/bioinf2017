@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="204.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-124.000000 -157.000000 204.000000 368.000000" height="368.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="3.0"
+              d="M 59.445026,190.935074 C 17.595516,168.963745 -12.221764,73.232491 9.749562,31.382978"
+              class="0 1" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 9.749562,31.382978 C -38.030006,28.829487 -105.869125,-46.670105 -103.315628,-94.449669"
+              class="1 2" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 9.749562,31.382978 C -19.470890,-6.520188 -6.446815,-107.205612 31.456350,-136.426071"
+              class="1 3" stroke-opacity="1.0" stroke="#999999"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 31.456350,-136.426071 C 12.897238,-101.076401 -67.965958,-75.890556 -103.315628,-94.449669"
+              class="3 2" stroke-opacity="1.0" stroke="#999999"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#999999" r="20.0" cx="59.445026"
+                class="0" cy="190.93507" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="20.0" cx="9.749562"
+                class="1" cy="31.382978" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="20.0" cx="-103.31563"
+                class="2" cy="-94.44967" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="20.0" cx="31.45635"
+                class="3" cy="-136.42607" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="48" x="59.445026" y="199.68507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="0">
+            4
+        </text>
+        <text font-size="48" x="9.749562" y="40.13298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="1">
+            1
+        </text>
+        <text font-size="48" x="-103.31563" y="-85.371544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="2">
+            3
+        </text>
+        <text font-size="48" x="31.45635" y="-127.51982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="3">
+            2
+        </text>
+    </g>
+</svg>
